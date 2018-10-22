@@ -1,0 +1,13 @@
+{
+  "name": "version-up",
+  "version": "1.0.0",
+  "description": "auto increase version on build",
+  "main": "index.js",
+  "bin":"./bin.js",
+  "author": "prpa",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "chalk": "^2.4.1"
+  }
+}
